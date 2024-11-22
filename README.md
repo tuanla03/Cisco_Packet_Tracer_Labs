@@ -1,7 +1,7 @@
 # Cisco_Packet_Tracer_Labs
 This repository contains a collection of Cisco Packet Tracer labs designed to help learners practice and understand networking concepts. Each lab includes configurations and exercises for various network topologies, routing, switching, and security tasks. <br>
 
-For the 1.pkt file contain:
+The 1.pkt file contains:
 ![image](https://github.com/user-attachments/assets/7c2bca74-5703-463b-8c1e-4dd45b7e0665)
 Network Model Description:
 This model represents a network structure with 2 routers (Router 0 and Router 1), connecting laptops through devices such as Light Weight Access Points and Wireless LAN Controllers (WLC). Specifically:<br>
